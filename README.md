@@ -1,1 +1,1 @@
-# sinif_kavrami
+# sinif_kavrami kullanımı
