@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SObGtk8gJArGpylfzr9fY+EPVamJvArkpLV2zQftS1d4yuHJ1qZEDb7RQliyjCjSACHQ2SiBLd2vcIb2YRLE6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\volkan\\OneDrive\\Belgeler\\pratikler\\sinif_kavrami\\sinif_kavrami.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\volkan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
